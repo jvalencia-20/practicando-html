@@ -6,20 +6,16 @@ form{
     padding: 10%;
     display: flex;
     flex-direction: column;
-    color: rgb(29, 240, 240);
+    color: rgb(240, 29, 47);
 
 
 }
 
 button{
-    color: rgb(24, 26, 26);
+    color: rgb(241, 12, 12);
 
 
 }
 
-button{
-    color: rgb(173, 13, 13);
-
-}
 
 
